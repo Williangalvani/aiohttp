@@ -344,6 +344,8 @@ jobs:
         - os: ubuntu
           qemu: aarch64
         - os: ubuntu
+          qemu: armv7
+        - os: ubuntu
           qemu: ppc64le
         - os: ubuntu
           qemu: s390x
